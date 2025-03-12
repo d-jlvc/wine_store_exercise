@@ -1,0 +1,4 @@
+ID | WINE NAME | WINE TYPE | WINE PRICE | WINE QUANTITY
+1 | Prosecco | Sparkling | 12.99 | 20
+2 | Riesling | White | 19.99 | 15
+3 | Rose | Red | 6.99 | 10
