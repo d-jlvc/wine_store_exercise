@@ -33,7 +33,7 @@ while True:
             [4] - Update wine price.
             [5] - Check stock.
             [6] - Check complete wine list. 
-            [7] - Change file name (create or edit another .txt).
+            [7] - Change file name (create or edit another .txt). // UNAVAILABLE
             [Q] - Exit manager mode.
             """)
         
